@@ -1,0 +1,10 @@
+1. Run chat.js using :
+	-> node chat.js
+
+2. Once you run this JS file, server will be up and running at port : 1337.
+   Open below URL from multiple CLI's  :
+
+	-> gagan@gagan-Inspiron-5559:~/Books/Projects/node-js-practice-files$ telnet localhost 1337
+
+
+Thats iy. you can chat with your friends now :).
